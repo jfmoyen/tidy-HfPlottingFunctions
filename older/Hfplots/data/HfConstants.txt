@@ -1,0 +1,11 @@
+Key	Ref	Lambda	Reservoir	176Lu/177Hf	176Hf/177Hf	Description
+BTA97	Blichert-Toft and Albarede 1997	1.93E-11				
+S04	Söderlund et al. 2004	1.87E-11				
+CERCAMS	CERCAMS	1.87E-11				from Scherer et al. 2001
+B10	Belousova et al. 2010		DM	0.0384	0.283251	based on 1.93e-11, 0.28323
+CERCAMS	CERCAMS		DM	0.0384	0.28325	assumes 0.279718 176/177 initial 4.56 Ga ago, Yingde uses the same (Griffin et al. 2000)
+B08	Bouvier et al. 2008		CHUR	0.0336	0.282785	
+CERCAMS	CERCAMS		CHUR	0.0332	0.282772	CERCAMS: based on 1.93e-11!!!, values of Blichert-Toft et al. (1997), Yingde uses the same
+RG03	Rudnick and Gao 2003		BCC	0.015		Bulk cont. Crust
+L11	Lancaster et al. 2011		BasCC	0.022		Basaltic cont. Crust
+A99	Amelin et al. 1999		UCC	0.0093		Upper cont. Crust
